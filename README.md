@@ -17,11 +17,11 @@
 This base board has size 25x37 holes and standard MLAB grid 400mils (10.16mm). It is especially suited for simple measuring instruments and mobile robots constructions.
 <!--- ELead ---> 
 
-![ALBASE2537](doc/img/ALBASE2537_QRcode.png) 
+![canvas](https://user-images.githubusercontent.com/5196729/236949749-331cebe5-e79e-4156-98a2-3301cdac7c69.png)
+
 
 
 <!--- Description --->
 <!--- EDescription --->
 <!--- Content --->
 <!--- EContent --->
-<sub><sup> Generated with [MLABweb](https://github.com/MLAB-project/MLABweb). (2019-02-18)</sup></sub>
