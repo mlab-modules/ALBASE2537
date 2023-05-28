@@ -1,0 +1,9 @@
+bom: hw/sch_pcb/ALBASE2537.kicad_pcb
+color: white
+eda:
+  pcb: hw/sch_pcb/ALBASE2537.kicad_pcb
+  type: kicad
+gerbers: hw/cam_profi/
+site: https://github.com/mlab-modules/ALBASE2537
+summary: This base board has size 25x37 holes and standard MLAB grid 400mils (10.16mm).
+  It is especially suited for simple measuring instruments and mobile robots constructions.

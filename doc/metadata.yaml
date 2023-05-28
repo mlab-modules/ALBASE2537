@@ -1,0 +1,13 @@
+description: This base board has size 25x37 holes and standard MLAB grid 400mils (10.16mm).
+  It is especially suited for simple measuring instruments and mobile robots constructions.
+github_branch: ALBASE2537
+github_repo: ALBASE2537
+github_url: https://github.com/mlab-modules/ALBASE2537
+homepage: false
+images:
+- doc/img/ALBASE2537_QRcode.png
+mark: 50
+tags:
+- albase
+- mlab
+title: ALBASE2537
