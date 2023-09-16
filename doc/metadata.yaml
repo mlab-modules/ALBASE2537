@@ -7,7 +7,7 @@ homepage: false
 images:
 - doc/img/ALBASE2537_QRcode.png
 mark: 50
-status: 0
+status: 2
 tags:
 - albase
 - mlab
