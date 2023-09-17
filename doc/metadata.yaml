@@ -7,7 +7,9 @@ homepage: false
 images:
 - doc/img/ALBASE2537_QRcode.png
 mark: 50
+status: 2
 tags:
 - albase
 - mlab
+- mlab-module
 title: ALBASE2537
